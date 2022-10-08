@@ -1,4 +1,6 @@
 def fib(n):
+    """Calculates fibonacci numbers."""
+
     if n == 1:
         return 1
     if n == 2:
